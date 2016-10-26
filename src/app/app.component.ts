@@ -4,16 +4,16 @@ export class Hero {
   name: string;
 }
 const HEROES: Hero[] = [
-  { id: 11, name: 'Mr. Nice' },
+  { id: 11, name: 'Nico' },
   { id: 12, name: 'Narco' },
-  { id: 13, name: 'Bombasto' },
+  { id: 13, name: 'Mr. Bombastic' },
   { id: 14, name: 'Celeritas' },
-  { id: 15, name: 'Magneta' },
-  { id: 16, name: 'RubberMan' },
-  { id: 17, name: 'Dynama' },
-  { id: 18, name: 'Dr IQ' },
+  { id: 15, name: 'Magneto' },
+  { id: 16, name: 'Rubber Man' },
+  { id: 17, name: 'Dynamo' },
+  { id: 18, name: 'Dr Proctor' },
   { id: 19, name: 'Magma' },
-  { id: 20, name: 'Tornado' }
+  { id: 20, name: 'Miss Tornado' }
 ];
 @Component({
   selector: 'my-app',
